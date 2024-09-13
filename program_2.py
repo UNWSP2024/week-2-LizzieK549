@@ -1,7 +1,7 @@
 """Program #2: Average Age Write a program that inputs the ages of five friends,
 calculates the average age (as a decimal) and displays the average age to the user.
-You can either do this via a loop (which we'll cover later in the class)
-or you can have 6 variables, one for each of the individual ages and one for the average age."""
+You can either do this via a loop (which we'll cover later in the class) or you can have 6 variables, one for each of the individual ages and one for the average age."""
+
 def average_age():
     # Get User Input
     #The following are names and scores

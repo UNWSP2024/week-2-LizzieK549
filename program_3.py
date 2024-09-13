@@ -4,6 +4,7 @@ def calculate_total_purchase():
     # then displays the subtotal of the sale, 
     # the amount of sales tax, and the total.  
     # Assume the sales tax is 7 percent.
+
     item1 = input("Enter name of item 1: ")
     item2 = input("Enter name of item 2: ")
     item3 = input("Enter name of item 3: ")
